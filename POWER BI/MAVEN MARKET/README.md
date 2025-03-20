@@ -5,6 +5,14 @@ This project analyzes the sales and revenue performance of a supermarket chain u
 The goal is to uncover trends, identify best-selling products, and optimize sales strategies.
 
 ---
+## 📥 Download the Power BI Report
+
+Since `.pbix` files are large and cannot be viewed directly on GitHub, you can download the full **Maven Market Power BI Report** from the link below:
+
+🔗 [Maven Market Power BI Report](https://drive.google.com/file/d/1wumh2q_U7_kQQ8TB_Ubop70fO2ZSb-_w/view?usp=sharing)
+
+
+---
 
 ## 📈 Key Insights
 ✅ **Sales Trends** – Revenue peaked during the holiday season, with **December recording the highest sales**.  
