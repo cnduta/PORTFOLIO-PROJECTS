@@ -13,19 +13,6 @@ Each project includes:
 ✔️ Jupyter notebooks or SQL scripts for analysis.
 ✔️ Visualizations or dashboards where applicable.
 
-🚀 Projects Overview
-🔹 A/B Testing: Online Ads Campaign (Python)
-Objective: Evaluating the effectiveness of an online ad campaign.
-Tools Used: Python (Pandas, Matplotlib, Scipy).
-Key Insights: Conversion rate analysis and hypothesis testing.
-🔹 Bank Transaction Analysis (SQL & Power BI)
-Objective: Understanding customer transaction behaviors in a bank.
-Tools Used: SQL, Power BI.
-Key Insights: Transaction trends and account activity patterns.
-🔹 Netflix Subscription Plans vs Watch Time (Python)
-Objective: Analyzing how different subscription plans impact watch time.
-Tools Used: Python (Pandas, Seaborn).
-Key Insights: User behavior across different plans.
 
 💡 Skills Demonstrated
 ✅ Data Cleaning & Preprocessing
@@ -37,7 +24,7 @@ Key Insights: User behavior across different plans.
 📩 Let's Connect!
 If you have any questions or feedback, feel free to reach out:
 📧 Email: ndutacaroline13.cn@gmail.com
-💼 LinkedIn: Caroline Nduta
+💼 LinkedIn: www.linkedin.com/in/caroline-nduta-data
 
 📌 How to Use This Repository
 Browse the folders to explore different projects.
