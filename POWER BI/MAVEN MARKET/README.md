@@ -9,7 +9,7 @@ The goal is to uncover trends, identify best-selling products, and optimize sale
 
 Since `.pbix` files are large and cannot be viewed directly on GitHub, you can download the full **Maven Market Power BI Report** from the link below:
 
-🔗 [Maven Market Power BI Report](https://drive.google.com/file/d/1wumh2q_U7_kQQ8TB_Ubop70fO2ZSb-_w/view?usp=sharing)
+🔗 [Maven Market Power BI Report](https://drive.google.com/file/d/1wumh2q_U7_kQQ8TB_Ubop70fO2ZSb-_w/view?usp=drive_link)
 
 
 ---
