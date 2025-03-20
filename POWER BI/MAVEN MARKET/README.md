@@ -19,7 +19,10 @@ The goal is to uncover trends, identify best-selling products, and optimize sale
 - **Customers.csv** – Includes customer demographics and membership status.  
 
 ---
+## Dashboard Preview
+![Maven Market Dashboard](MAVEN%20MARKET%20DASHBOARD%20IMAGE.png)
 
+---
 ## 📊 Dashboard Features
 ✔️ **Sales Performance** – Monthly revenue trends & product category analysis.  
 ✔️ **Customer Insights** – Purchase behavior & loyalty program impact.  
